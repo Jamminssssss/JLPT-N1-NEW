@@ -22,21 +22,11 @@ struct Home: View {
                     .fontWeight(.semibold)
                     .hAlign(.leading)
                 
-                CustomLabel("list.bullet.rectangle.portrait", "\(questions.count)", "대략 문제 갯수")
-                    .padding(.top,20)
-                
-                CustomLabel("person", "\(info.peopleAttended)", "Attended the exercise")
-                    .padding(.top,5)
-                
-                Divider()
-                    .padding(.horizontal,-15)
-                    .padding(.top,15)
-                
                 if !info.rules.isEmpty{
                     RulesView(info.rules)
                 }
                 
-                CustomButton(title: "Start Test", onClick: {
+                CustomButton(title: "시작", onClick: {
                     startQuiz.toggle()
                 })
                     .vAlign(.bottom)
@@ -69,7 +59,7 @@ struct Home: View {
     @ViewBuilder
     func RulesView(_ rules: [String])->some View{
         VStack(alignment: .leading, spacing: 15) {
-            Text("시작전에 읽어보세요.")
+            Text("시작전에 읽어주세요.")
                 .font(.title3)
                 .fontWeight(.bold)
                 .padding(.bottom,12)

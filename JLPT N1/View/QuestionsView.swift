@@ -62,7 +62,7 @@ struct QuestionsView: View {
             .padding(.horizontal,-15)
             .padding(.vertical,15)
             
-            CustomButton(title: currentIndex == (questions.count - 1) ? "Finish" : "Next Question") {
+            CustomButton(title: currentIndex == (questions.count - 1) ? "끝" : "다음 문제") {
                 if currentIndex == (questions.count - 1){
                     showScoreCard.toggle()
                 }else{
@@ -166,12 +166,12 @@ struct ScoreCardView: View{
     var body: some View{
         VStack{
             VStack(spacing: 15){
-                Text("Result of Your Exercise")
+                Text("시험이 끝났습니다.")
                     .font(.title3)
                     .fontWeight(.semibold)
                 
                 VStack(spacing: 15){
-                    Text("축하합니다! 당신의\n 점수는")
+                    Text("당신의\n 정답률은?")
                         .font(.title2)
                         .fontWeight(.semibold)
                         .multilineTextAlignment(.center)
@@ -196,7 +196,7 @@ struct ScoreCardView: View{
             }
             .vAlign(.center)
             
-            CustomButton(title: "Back to Home") {
+            CustomButton(title: "다시 시작") {
                 
                 Firestore.firestore().collection("Quiz").document("Info").updateData([
                     "peopleAttended": FieldValue.increment(1.0)
