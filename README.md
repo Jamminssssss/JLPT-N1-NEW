@@ -28,3 +28,11 @@ JLPT N1 시험의 문자,어휘,독해,단어 문제를 제공합니다.
 ## 앱스토어.
 
 https://apps.apple.com/kr/app/jlpt-n1-quiz/id6446321475
+
+## 시연영상.
+
+https://www.youtube.com/watch?v=HBDxV7Pfg-w
+
+## 내가 만든 앱을 직접 풀고 해설하는 영상.
+
+https://www.youtube.com/watch?v=zB8nDo2ZKMw
