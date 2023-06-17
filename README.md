@@ -1,4 +1,4 @@
-# JLPT-N1-NEW
+#JLPT N1 QUIZ APP
 
 ![스크린샷 2023-06-17 오후 10 00 38](https://github.com/Jamminssssss/JLPT-N1-NEW/assets/91593937/862342a5-79e6-4f9c-972e-9a5ead3951c5)
 
