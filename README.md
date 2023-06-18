@@ -29,10 +29,7 @@ Provides text, vocabulary, reading, and word questions for the JLPT N1 exam.
 [![Video describing the app](http://img.youtube.com/vi/HBDxV7Pfg-w/0.jpg)](https://youtu.be/HBDxV7Pfg-w?t=0s) 
 
 
-https://www.youtube.com/watch?v=HBDxV7Pfg-w
-
 ## JLPT N1 Quiz App Solving Video
 
 [![JLPT N1 Quiz App Solving Video](http://img.youtube.com/vi/zB8nDo2ZKMw/0.jpg)](https://youtu.be/zB8nDo2ZKMw?t=0s) 
 
-https://www.youtube.com/watch?v=zB8nDo2ZKMw
