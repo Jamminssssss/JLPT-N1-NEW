@@ -24,10 +24,6 @@ Provides text, vocabulary, reading, and word questions for the JLPT N1 exam.
 - When you solve all the questions, it shows the percentage of correct answers to your questions.
 - Add a link button linked to YouTube so that you can make and watch YouTube videos of related apps
 
-## App Store
-
-https://apps.apple.com/kr/app/jlpt-n1-quiz/id6446321475
-
 ## Video describing the app
 
 https://www.youtube.com/watch?v=HBDxV7Pfg-w
