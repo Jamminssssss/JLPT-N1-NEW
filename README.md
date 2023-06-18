@@ -3,19 +3,19 @@
 ![스크린샷 2023-06-17 오후 10 00 38](https://github.com/Jamminssssss/JLPT-N1-NEW/assets/91593937/862342a5-79e6-4f9c-972e-9a5ead3951c5)
 
 
-## 개요.
+## JLPT N1 Quiz App
 
-일본어 능력 평가 시험 통칭 JLPT 문제를 퀴즈로 풀어볼수 있는 앱입니다.
+It is an app that allows you to solve JLPT questions, commonly called JLPT questions, through quizzes.
 
-문제의 난이도는 N1 입니다.
+The difficulty level of the question is N1.
 
-퀴즈는 실제 JLPT 시험 지문을 참고해서 제작되었습니다.
+The quiz was produced by referring to the actual JLPT test text.
 
-제작 목적은 JLPT N1 시험을 준비하는 수험생이 시험을 치기전에 가볍게 실력 체크를 해보는 용도입니다.
+The purpose of the production is for test takers preparing for the JLPT N1 test to lightly check their skills before taking the test.
 
-모르는 문제가 있다면 다음문제 버튼을 누르면 넘어갈수 있습니다.
+If you don't know any problems, press the next question button to move on.
 
-JLPT N1 시험의 문자,어휘,독해,단어 문제를 제공합니다.
+Provides text, vocabulary, reading, and word questions for the JLPT N1 exam.
 
 ## 구현기능.
 
